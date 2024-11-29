@@ -11,9 +11,8 @@
 </p>
 
 # Get your own demo
-https://github.com/taosher/bitnami-charts
 
-[![Deploy on AlibabaCloud ACS](https://service-info-public.oss-cn-hangzhou.aliyuncs.com/computenest-en.svg)](https://acs.console.aliyun.com/quick-deploy?repoUrl=https://github.com/taosher/bitnami-charts.git&branch=main)
+[![Deploy on AlibabaCloud ACS](https://service-info-public.oss-cn-hangzhou.aliyuncs.com/computenest.svg)](https://acs.console.aliyun.com/quick-deploy?repoUrl=https://github.com/taosher/bitnami-charts.git&branch=main)
 
 # The Bitnami Library for Kubernetes
 
