@@ -10,6 +10,11 @@
     <a href="https://github.com/bitnami/charts/actions/workflows/cd-pipeline.yml"><img src="https://github.com/bitnami/charts/actions/workflows/cd-pipeline.yml/badge.svg" /></a>
 </p>
 
+# Get your own demo
+https://github.com/taosher/bitnami-charts
+
+[![Deploy on AlibabaCloud ACS](https://service-info-public.oss-cn-hangzhou.aliyuncs.com/computenest-en.svg)](https://acs.console.aliyun.com/quick-deploy?repoUrl=https://github.com/taosher/bitnami-charts.git&branch=main)
+
 # The Bitnami Library for Kubernetes
 
 Popular applications, provided by [Bitnami](https://bitnami.com), ready to launch on Kubernetes using [Kubernetes Helm](https://github.com/helm/helm).
